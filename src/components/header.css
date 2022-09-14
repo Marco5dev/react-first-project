@@ -1,0 +1,18 @@
+header {
+  width: 100%;
+  background-color: #fff;
+  display: flex;
+  padding: 10px 200px;
+  justify-content: space-between;
+}
+
+header nav li {
+  list-style: none;
+  display: flex;
+  margin: 10px;
+}
+
+header nav li .Nav {
+  text-decoration: none;
+  color: #000;
+}
